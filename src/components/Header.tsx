@@ -13,8 +13,8 @@ const Header = () => {
             <Code2 className="w-5 h-5 text-primary-foreground" />
           </div>
           <div>
-            <h1 className="font-semibold text-foreground">Lovable</h1>
-            <p className="text-xs text-muted-foreground">Your Coding Companion</p>
+            <h1 className="font-semibold text-foreground">Chat GPT PK</h1>
+            <p className="text-xs text-muted-foreground">Created By Ahmed Ali Mughal</p>
           </div>
         </div>
         <Button
